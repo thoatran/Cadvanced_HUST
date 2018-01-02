@@ -1,0 +1,13 @@
+5
+http://www.aaa.atz 1
+http://www.bbb.biz 3
+http://www.ccc.com 6
+http://www.ddd.biz 5
+http://www.eee.com 8
+6
+1 5
+1 6
+3 5
+8 5
+5 8
+6 6

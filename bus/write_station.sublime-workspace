@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"creat",
+				"createHuffmanTable"
+			],
+			[
+				"ht",
+				"htable"
+			],
+			[
+				"de",
+				"deQueuePrior"
+			],
+			[
+				"p",
+				"priorQ"
+			],
+			[
+				"st",
+				"stats"
+			],
+			[
+				"j",
+				"jval_i"
+			],
+			[
+				"I",
+				"INFINITY_VALUE"
+			],
+			[
+				"vi",
+				"visitFunv"
+			],
+			[
+				"D",
+				"DFS_ulti"
+			],
+			[
+				"v",
+				"visited"
+			],
+			[
+				"dl",
+				"dll_append"
+			],
+			[
+				"co",
+				"connect_to_u"
+			],
+			[
+				"t",
+				"temp"
+			],
+			[
+				"ver",
+				"vertex"
+			],
+			[
+				"node",
+				"nodev1"
+			],
+			[
+				"find",
+				"findNode"
+			],
+			[
+				"adjacent",
+				"adjacentofV1"
+			],
+			[
+				"adja",
+				"adjacent"
+			],
+			[
+				"server-",
+				"server-send-failed-register"
+			],
+			[
+				"en",
+				"entries"
+			],
+			[
+				"to",
+				"to_free_entry"
+			],
+			[
+				"c",
+				"compare"
+			],
+			[
+				"IN",
+				"INITIAL_SIZE"
+			],
+			[
+				"ma",
+				"makeNode"
+			],
+			[
+				"b",
+				"buf"
+			],
+			[
+				"pr",
+				"printf_array_jval"
+			],
+			[
+				"com",
+				"compare_int"
+			],
+			[
+				"ex",
+				"exch"
+			],
+			[
+				"q",
+				"qsort3Ways"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"ta",
+				"tasks"
+			],
+			[
+				"E",
+				"Error\t( message: string ): Error Error"
+			],
+			[
+				"S",
+				"String\t( value: any ): String String"
+			],
+			[
+				"Te",
+				"Template"
+			],
+			[
+				"T",
+				"Tasks"
+			],
+			[
+				"Q",
+				"QuanHuyenID"
+			],
+			[
+				"Ten",
+				"TenDuongPho"
+			],
+			[
+				"str",
+				"street_dropdown"
+			],
+			[
+				"fi",
+				"find_element"
+			],
+			[
+				"dis",
+				"district_name"
+			],
+			[
+				"district",
+				"district_name"
+			],
+			[
+				"di",
+				"district_dropdown"
+			],
+			[
+				"C",
+				"CREATE"
+			],
+			[
+				"P",
+				"PRIMARY"
+			],
+			[
+				"A",
+				"AUTO_INCREMENT"
+			],
+			[
+				"utf",
+				"utf8_unicode_ci"
+			],
+			[
+				"cline",
+				"Client"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: vn",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"view:toggle menu",
+				"View: Toggle Menu"
+			],
+			[
+				"vie",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/thoatran/Cadvanced/week10/test.c",
+		"/home/thoatran/Cadvanced/week10/makefile",
+		"/home/thoatran/Cadvanced/Bus-master/makefile",
+		"/home/thoatran/Cadvanced/week9/weighted_graph.h",
+		"/home/thoatran/Documents/return_station20.txt",
+		"/home/thoatran/Documents/go_distance20.txt",
+		"/home/thoatran/Documents/return_distance20.txt",
+		"/home/thoatran/Documents/go_station20.txt",
+		"/home/thoatran/Documents/go_station28.txt",
+		"/home/thoatran/Cadvanced/week9/test.c",
+		"/home/thoatran/Cadvanced/week9/makefile",
+		"/home/thoatran/Cadvanced/week9/weighted_graph.c",
+		"/home/thoatran/Cadvanced/week8/test.c",
+		"/home/thoatran/Cadvanced/week8/makefile",
+		"/home/thoatran/Cadvanced/week8/digraph.h",
+		"/home/thoatran/Cadvanced/week8/digraph.c",
+		"/home/thoatran/Cadvanced/week7/graph_rb.c",
+		"/home/thoatran/Cadvanced/week7/graph_rb.h",
+		"/home/thoatran/Cadvanced/week7/makefile",
+		"/home/thoatran/Cadvanced/week7/main.c",
+		"/home/thoatran/Cadvanced/week7/rbt_graph.c",
+		"/home/thoatran/Cadvanced/week6/matrix/test.c",
+		"/home/thoatran/Cadvanced/week6/rbt/test.c",
+		"/home/thoatran/Cadvanced/week6/matrix/graph_matrix.c",
+		"/home/thoatran/Cadvanced/minidict/Bdict.c",
+		"/home/thoatran/Cadvanced/minidict/soundex.h",
+		"/home/thoatran/Cadvanced/week6/rbt/graph_rb.c",
+		"/home/thoatran/Cadvanced/week6/rbt/graph_rb.h",
+		"/home/thoatran/Cadvanced/week5/phonebook.c",
+		"/home/thoatran/Cadvanced/week5/minidict.c",
+		"/home/thoatran/Cadvanced/week5/Makefile",
+		"/home/thoatran/Cadvanced/week3/SymbolTable.h",
+		"/home/thoatran/Cadvanced/week4/phonebook.c",
+		"/home/thoatran/DEMO_CHAT_SOCKETIO/views/trangchu.ejs",
+		"/home/thoatran/DEMO_CHAT_SOCKETIO/SERVER.js",
+		"/home/thoatran/DEMO_CHAT_SOCKETIO/Procfile",
+		"/home/thoatran/DEMO_CHAT_SOCKETIO/public/xuly.js",
+		"/home/thoatran/DEMO_CHAT_SOCKETIO/public/layout.css",
+		"/home/thoatran/Cadvanced/week2/gen_sort.h",
+		"/home/thoatran/Cadvanced/week2/jval.c",
+		"/home/thoatran/Cadvanced/week2/gen.c",
+		"/home/thoatran/Cadvanced/week1/qsort.h",
+		"/home/thoatran/Cadvanced/week1/qsort.c",
+		"/home/thoatran/Cadvanced/week1/sort.h",
+		"/home/thoatran/Cadvanced/week1/phonebook.c",
+		"/home/thoatran/nodejs/demoZalo/app.js",
+		"/home/thoatran/nodejs/passport/views/trangchu.ejs",
+		"/home/thoatran/nodejs/passport/views/login.ejs",
+		"/home/thoatran/nodejs/passport/index.js",
+		"/home/thoatran/nodejs/todos/imports/api/tasks.js",
+		"/home/thoatran/nodejs/todos/imports/ui/body.js",
+		"/home/thoatran/nodejs/todos/imports/ui/task.html",
+		"/home/thoatran/nodejs/todos/imports/ui/task.js",
+		"/home/thoatran/nodejs/todos/imports/api/tasks.test.js",
+		"/home/thoatran/LearnJava/helloWorld.java",
+		"/home/thoatran/nodejs/todos/imports/ui/body.html",
+		"/home/thoatran/nodejs/todos/imports/startup/accounts-config.js",
+		"/home/thoatran/nodejs/chat/index.js",
+		"/home/thoatran/LearnRuby/amthuc365/functions.rb",
+		"/home/thoatran/LearnRuby/amthuc365/config.rb",
+		"/home/thoatran/nodejs/passport/trangchu.html",
+		"/home/thoatran/nodejs/realtime/public/xuly.js",
+		"/home/thoatran/nodejs/realtime/public/layout.css",
+		"/home/thoatran/nodejs/realtime/index.js",
+		"/home/thoatran/nodejs/realtime/views/trangchu.ejs",
+		"/home/thoatran/LearnRuby/pets.csv",
+		"/home/thoatran/demo.html",
+		"/home/thoatran/learn.java",
+		"/home/thoatran/nodejs/Socketio-Buoi1/SERVER/views/trangchu.ejs",
+		"/home/thoatran/nodejs/Socketio-Buoi1/SERVER/index.js",
+		"/home/thoatran/Cbasic/standardlib/test.c",
+		"/home/thoatran/Cbasic/standardlib/sllist.h",
+		"/home/thoatran/Cbasic/standardlib/lib/BST.h",
+		"/home/thoatran/Cbasic/week14/test2016_2/queue.h",
+		"/home/thoatran/Cbasic/week14/test2016_2/test.c",
+		"/home/thoatran/Cbasic/week14/test2011/test.c",
+		"/home/thoatran/Cbasic/week14/test2015/test.c",
+		"/home/thoatran/Cbasic/week14/demo/1.c",
+		"/home/thoatran/Cbasic/week14/DICT/test.c",
+		"/home/thoatran/Cbasic/week14/qlsv/qlsv.c",
+		"/home/thoatran/Cbasic/week14/test2016/queue.h",
+		"/home/thoatran/Cbasic/week14/test2016/test.c",
+		"/home/thoatran/Cbasic/week14/luanvo/test.c",
+		"/home/thoatran/Cbasic/week14/luanvo/queue.h",
+		"/home/thoatran/Cbasic/week12/num.c",
+		"/home/thoatran/Cbasic/week12/expression/express.c",
+		"/home/thoatran/Cbasic/week12/verify.c",
+		"/home/thoatran/Cbasic/week10/test.c",
+		"/home/thoatran/Cbasic/week13/avl.h",
+		"/home/thoatran/Cbasic/week14/pair/pair.c",
+		"/home/thoatran/Cbasic/standardlib/bintree.h",
+		"/home/thoatran/Cbasic/week0/BST.c",
+		"/home/thoatran/Cbasic/week12/champion/champion.c",
+		"/home/thoatran/Cbasic/week12/champion/bintree.h",
+		"/home/thoatran/Cbasic/week9/test.c",
+		"/home/thoatran/Cbasic/week12/bintree.h",
+		"/home/thoatran/Cbasic/week12/champion.c",
+		"/home/thoatran/Cbasic/week12/bst.h",
+		"/home/thoatran/Cbasic/week11/queuelib.h",
+		"/home/thoatran/Cbasic/week0/largestSub.c",
+		"/home/thoatran/Cbasic/week11/dblink.h",
+		"/home/thoatran/Cbasic/week11/phone.c",
+		"/home/thoatran/Cbasic/week11/transpose.c",
+		"/home/thoatran/Cbasic/week10/queuelib.h",
+		"/home/thoatran/Cbasic/week10/ticket.c",
+		"/home/thoatran/Cbasic/week11/binarySearch.c",
+		"/home/thoatran/Cbasic/week10/queue.h",
+		"/home/thoatran/Cbasic/week10/simulation.c",
+		"/home/thoatran/Cbasic/week10/stacklib.h",
+		"/home/thoatran/Cbasic/week10/eval.c",
+		"/home/thoatran/Cbasic/week10/dlink.h",
+		"/home/thoatran/Cbasic/week0/bucketSort.c",
+		"/home/thoatran/Cbasic/week0/countingSort.c",
+		"/home/thoatran/Cbasic/week0/circularLinkedList.c",
+		"/home/thoatran/Cbasic/week9/stacklib.h",
+		"/home/thoatran/Cbasic/week9/undo.c",
+		"/home/thoatran/Cbasic/week9/convert.c",
+		"/home/thoatran/Cbasic/week9/adding.c",
+		"/home/thoatran/Cbasic/week9/pair.c",
+		"/home/thoatran/Cbasic/week0/doanGiaTri.c",
+		"/home/thoatran/.config/sublime-text-3/Packages/User/GCC.sublime-build",
+		"/home/thoatran/Cbasic/week9/adding2.c",
+		"/home/thoatran/Cbasic/week0/undoRedo.c",
+		"/home/thoatran/Cbasic/week9/stack.h",
+		"/home/thoatran/Cbasic/week9/stackArray.h",
+		"/home/thoatran/Cbasic/week8/dlink.c",
+		"/home/thoatran/Cbasic/week8/dlink.h",
+		"/home/thoatran/Cbasic/week0/stack.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"preferences"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "write_station.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
